@@ -1,0 +1,9 @@
+some theory about Spring Boot (based on PP presentation)
+spring initializer
+create project
+configuration properties
+actuator
+custom actuator endpoint
+testing
+conditional
+spring.factories
