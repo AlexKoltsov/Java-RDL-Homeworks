@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
 // setting Hibernate, Spring Data, and the DataSource
 // performing an @EntityScan
 // turning on SQL logging
-    @DataJpaTest
+@DataJpaTest
 class LessonRepositoryTest {
 
     @Autowired

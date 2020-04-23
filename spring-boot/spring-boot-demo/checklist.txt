@@ -5,5 +5,16 @@ configuration properties
 actuator
 custom actuator endpoint
 testing
+custom spring boot starter
 conditional
 spring.factories
+describe home task. what should be done
+
+
+TODO:
+what should be done before lesson
+https://spring.io/guides/gs/spring-boot/
+
+write about home task (upgrade to boot or rewrite everything)
+
+PP 2019 -> 2020
